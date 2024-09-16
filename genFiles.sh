@@ -1,5 +1,6 @@
 #!/bin/bash
 
+set -x
 #make dirs
 mkdir -p co/{denver,boulder} ca ma/boston
 
